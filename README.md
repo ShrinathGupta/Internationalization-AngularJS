@@ -12,7 +12,7 @@ Go to project directory and run *npm start*.
 Go to browser and visit http://localhost:7777/ 
 
 # Locale file directory 
-   Dir:*app/locale/*
+   Dir: *app/locale/*
    
    Every file name has prefix *LOCALIZ_* and after prefix langauge code and country code.
    
