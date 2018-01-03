@@ -1,0 +1,16 @@
+{
+  "name": "internationalization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT",
+   "dependencies": {
+    "express": "^4.16.2",
+    "grunt": "^1.0.1",
+    "path": "^0.12.7",
+    "regex": "^0.1.1"
+  }
+}
